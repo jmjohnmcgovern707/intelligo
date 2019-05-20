@@ -47,10 +47,10 @@
     "underscore": "1.9.1"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "eslint": "^5.15.1",
-    "mocha": "^6.0.2",
-    "sinon": "^7.2.7"
+    "chai": "4.2.0",
+    "eslint": "5.15.1",
+    "mocha": "6.0.2",
+    "sinon": "7.2.7"
   },
   "collective": {
     "type": "opencollective",
